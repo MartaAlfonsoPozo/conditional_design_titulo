@@ -17,7 +17,7 @@ Cada jugador se ubicará en un lateral correspondiente al papel. Una vez decidid
   
 2. Segundo turno
 
-    2.1. Cada color tendrá una de las caras del cuadrado la cual no podrá modificar.
+    2.1. Cada color tendrá una de las caras del cuadrado asignada.
   
         2.1.1 Color negro cara derecha, color rojo cara izquierda, color azul cara inferior y color amarillo cara superior.
     
