@@ -1,7 +1,7 @@
 # conditional_design_cuatrocaras
 Cuatro Caras
 
-Cada jugador se ubicará en un lateral correspondiente al papel. Una vez decidico tendrá que acabar en el mismo sitio.
+Cada jugador se ubicará en un lateral correspondiente al papel. Una vez decidido tendrá que acabar en el mismo sitio.
 
 1. Primer turno:
 
